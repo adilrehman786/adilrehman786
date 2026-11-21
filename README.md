@@ -1,13 +1,23 @@
-## About Me
+[about](about)
 
-Hey, I'm **Adil Rahman**, a Full Stack Engineer who enjoys turning ideas into real, working products.
+> Full Stack Engineer. BCA AIDA, graduating 2028.  
+> Building web, mobile, backend, and AI-powered products that actually ship.
 
-I build web and mobile applications, backend systems, APIs, and AI-powered solutions. I enjoy working across the stack, from designing clean user experiences to building reliable backend systems and bringing everything together.
+Currently building with React, React Native, Expo, Node.js, Python, and Supabase — working across the stack from UI to APIs, databases, and deployment.
 
-Currently building and shipping production-ready applications, while exploring AI, machine learning, and intelligent software systems.
+Interested in AI, developer tools, scalable backend systems, and turning ideas into products people can actually use. Previously built and shipped projects across AI, analytics, social platforms, and automation.
 
-My interests include Full Stack Engineering, React, React Native, Node.js, Python, PostgreSQL, Supabase, and cloud technologies.
+[stack](stack)
 
-I enjoy solving complex problems, learning new technologies, and turning ideas into products that people can actually use.
+python   java   javascript   typescript   sql   react   react-native   expo   node   express   fastapi   supabase   postgresql   docker   git   github   vercel
 
-> Code. Build. Break. Learn. Repeat.
+[projects](projects)
+
+[**resume-scan-ai**](#) · python, ai  
+AI-powered resume analysis and feedback system built to help turn resumes into stronger applications.
+
+[**leetcode-analyzer**](#) · react, python  
+Coding analytics platform for tracking and understanding LeetCode progress.
+
+[**campusone**](#) · react, vite, express, claude  
+AI-powered campus platform combining student tools with an intelligent assistant.
