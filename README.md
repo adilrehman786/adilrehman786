@@ -1,16 +1,13 @@
-## Hi there 👋
+## About Me
 
-<!--
-**adilrehman786/adilrehman786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, I'm **Adil Rahman**, a Full Stack Engineer who enjoys turning ideas into real, working products.
 
-Here are some ideas to get you started:
+I build web and mobile applications, backend systems, APIs, and AI-powered solutions. I enjoy working across the stack, from designing clean user experiences to building reliable backend systems and bringing everything together.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building and shipping production-ready applications, while exploring AI, machine learning, and intelligent software systems.
+
+My interests include Full Stack Engineering, React, React Native, Node.js, Python, PostgreSQL, Supabase, and cloud technologies.
+
+I enjoy solving complex problems, learning new technologies, and turning ideas into products that people can actually use.
+
+> Code. Build. Break. Learn. Repeat.
